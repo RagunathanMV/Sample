@@ -1,0 +1,37 @@
+[33mcommit 29d0847dccfc7dc68e85178a64715b0dfc37df6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 55b4bac 7d5c413
+Author: Ragunath <ragunathan.mariappan@orionic.com>
+Date:   Mon Jun 18 15:32:06 2018 +0530
+
+    Merge branch 'master' of https://github.com/RagunathanMV/Gitexam
+    git commit -m "to pull the branch"
+
+[33mcommit 7d5c413c32514810ed1e239c91ea759355df4d8f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: RagunathanMV <40165291+RagunathanMV@users.noreply.github.com>
+Date:   Mon Jun 18 14:58:58 2018 +0530
+
+    Create Examplefile
+
+[33mcommit 55b4bace4bf4ae894650e1aad70d30dc77e270a3[m
+Author: Ragunath <ragunathan.mariappan@orionic.com>
+Date:   Mon Jun 18 14:56:31 2018 +0530
+
+    File was added..
+
+[33mcommit 5d2f025837defb40192468a6924f477515959c38[m[33m ([m[1;32mExam3[m[33m, [m[1;32mExam2[m[33m, [m[1;32mExam1[m[33m)[m
+Author: Ragunath <ragunathan.mariappan@orionic.com>
+Date:   Mon Jun 18 12:39:10 2018 +0530
+
+    First commit
+
+[33mcommit baca62cde06ae91bbfa53f5f66d48e75e701e99c[m
+Author: RagunathanMV <40165291+RagunathanMV@users.noreply.github.com>
+Date:   Mon Jun 18 11:59:44 2018 +0530
+
+    Update README.md
+
+[33mcommit 5a6d9d4c024ad74110d694f24de90a64035be2d1[m
+Author: RagunathanMV <40165291+RagunathanMV@users.noreply.github.com>
+Date:   Mon Jun 18 11:14:39 2018 +0530
+
+    Initial commit
